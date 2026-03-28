@@ -1,0 +1,3 @@
+moviepy
+uvicorn
+fastapi
